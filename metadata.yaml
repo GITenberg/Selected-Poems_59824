@@ -1,5 +1,8 @@
 _repo: Selected-Poems_59824
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59824-h/images/frost_cover.jpg
 creator:
   author:
     agent_name: Frost, Robert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1091
     wikipedia: http://en.wikipedia.org/wiki/Robert_Frost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59824#Selected-Poems
 gutenberg_issued: '2019-06-27'
 gutenberg_type: Text
 identifiers:
